@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EEDID_Viewer.EDDID_lib.VideoInput">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\VideoInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.VideoInputDigital">
+    <Position X="18.5" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEEAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\VideoInputDigital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.VideoInputAnalog">
+    <Position X="18.5" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAgAAAAEEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\VideoInputAnalog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.SyncType">
+    <Position X="21.5" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEQAAQAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>EDDID_lib\SyncType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.FeatureSupport">
+    <Position X="7.25" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAABAEAAAEAABAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\FeatureSupport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.FeatureSupportFlags">
+    <Position X="8.5" Y="9.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\FeatureSupportFlags.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.PowerManagement">
+    <Position X="6.5" Y="9.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAgAAAAAAAAAAAAAAEAQA=</HashCode>
+      <FileName>EDDID_lib\PowerManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.ScreenAxis">
+    <Position X="16.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\ScreenAxis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.Screen">
+    <Position X="16.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\Screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.AspectRatio">
+    <Position X="19" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\AspectRatio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.StandardTiming">
+    <Position X="16.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgEAgAAAAAEAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>EDDID_lib\StandardTiming.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.EstablishedTiming">
+    <Position X="21" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAEAAAAAEAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\EstablishedTiming.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.ColorCharacteristics">
+    <Position X="8.5" Y="12" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAEAAAAAAAABAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>EDDID_lib\ColorCharacteristics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.ColorChannelAxis">
+    <Position X="6.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>EDDID_lib\ColorChannelAxis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.DataBlock">
+    <Position X="13.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>EDDID_lib\DataBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.DetailedTimingDescriptor">
+    <Position X="9" Y="19.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAEAAAAAAIABAAAAAAAAAAAIECAAAA=</HashCode>
+      <FileName>EDDID_lib\DetailedTimingDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.SyncSignal">
+    <Position X="7" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\SyncSignal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.AnalogSyncSignal">
+    <Position X="4.25" Y="18.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAEAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>EDDID_lib\AnalogSyncSignal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.DigitalSyncSignal">
+    <Position X="4.25" Y="20.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAEAAAAAAACAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>EDDID_lib\DigitalSyncSignal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.DetailedTimingAxis">
+    <Position X="4.25" Y="15.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACAABAAAEAAAAgAAAAAAAADAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\DetailedTimingAxis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.TaggedDescriptor">
+    <Position X="13.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\TaggedDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.ManufacturerDataDescriptor">
+    <Position X="9.25" Y="29.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\ManufacturerDataDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.ColorManagementDescriptor">
+    <Position X="9.25" Y="31.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>EDDID_lib\ColorManagementDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.DataStringDescriptor">
+    <Position X="11.75" Y="31.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\DataStringDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.ProductSerialDescriptor">
+    <Position X="13.75" Y="31.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\ProductSerialDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.DisplayNameDescriptor">
+    <Position X="16" Y="31.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\DisplayNameDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.EstablishedTimingsDescriptor">
+    <Position X="17.5" Y="34" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEgAA=</HashCode>
+      <FileName>EDDID_lib\EstablishedTimingsDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.RangeLimitsDescriptor">
+    <Position X="20.25" Y="28.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAEgEAAAAQAAAAABAAAAAABAAAAAAAEA=</HashCode>
+      <FileName>EDDID_lib\RangeLimitsDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.SecundaryGTF">
+    <Position X="20.25" Y="31.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAAAgIIBAAA=</HashCode>
+      <FileName>EDDID_lib\SecundaryGTF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.CVTSupport">
+    <Position X="22.5" Y="31.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAIACAEAAIBAAAAEAgAAAAAAAAAAACAAAQgAEAAAAAA=</HashCode>
+      <FileName>EDDID_lib\CVTSupport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.TypeDisplayScalingSupported">
+    <Position X="25" Y="35.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAEAAAAAAAAAAIABAAAAAAAAAAIAAA=</HashCode>
+      <FileName>EDDID_lib\TypeDisplayScalingSupported.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.CVT3ByteCodeDescriptor">
+    <Position X="20.25" Y="26.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\CVT3ByteCodeDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.CVT3ByteCode">
+    <Position X="22.5" Y="26.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAgAAAAAAAAAAQEAAAAAAAoAAAAA=</HashCode>
+      <FileName>EDDID_lib\CVT3ByteCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.StandardTimingDescriptor">
+    <Position X="20.25" Y="24.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\StandardTimingDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.ColorPointDescriptor">
+    <Position X="11" Y="26.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>EDDID_lib\ColorPointDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.ColorPoint">
+    <Position X="9.25" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAEAAAAAAAAAAAAAAAAQAAAACABAAA=</HashCode>
+      <FileName>EDDID_lib\ColorPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.EEDIDException">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EDDID_lib\EEDIDException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.EEDID">
+    <Position X="12.75" Y="8.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAUgJAAAAAAEEBAgAgAgAEEBAAAgQAAAMQAFoQE=</HashCode>
+      <FileName>EDDID_lib\EEDID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEDID_Viewer.EDDID_lib.ManufacuterPNP">
+    <Position X="17.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAAAAFAAAAAA=</HashCode>
+      <FileName>EDDID_lib\ManufacuterPNP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
